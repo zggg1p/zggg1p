@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Yuan Xiaohan 👋 
 
-<!--
-**zggg1p/zggg1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning about programming methods, deep learning, and other related things.  
 
-Here are some ideas to get you started:
+I will earnestly learn from all of you so that I can improve my ability.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I have done something wrong I hope you will help me, thank you!  
+
+Feel free to reach out to me at yxh_000001@163.com
+
+### Stats
+
+[![zggg1p's github stats](https://github-readme-stats.vercel.app/api?username=zggg1p)](https://github.com/zggg1p)
