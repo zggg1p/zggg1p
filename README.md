@@ -38,9 +38,9 @@ Feel free to reach out to me at yxh_000001@163.com
 
 &emsp;&emsp; 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=Ubuntu&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=VisualStudio&logoColor=white)
-![Pycharm](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Pycharm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624?style=style=flat-square&logo=Ubuntu&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-4285F4?style=flat-square&logo=VisualStudio&logoColor=white)
+![Pycharm](https://img.shields.io/badge/Pycharm-0078D7?style=flat-square&logo=Pycharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
