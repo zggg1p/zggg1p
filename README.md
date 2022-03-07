@@ -65,8 +65,7 @@ Feel free to reach out to me at yxh_000001@163.com
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zggg1p&hide_title=true&hide_border=true&show_icons=true&cache_seconds=7200 />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zggg1p&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zggg1p&hide_title=true&hide_border=true&show_icons=true" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zggg1p&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <br>
-
