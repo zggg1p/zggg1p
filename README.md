@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yuan同学祝您今天愉快!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yuan同学祝您今日愉快!&center=true&size=27">
 </h1>
 
 <!-- 敲代码的图片 -->
@@ -65,7 +65,7 @@ Feel free to reach out to me at yxh_000001@163.com
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zggg1p&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zggg1p&hide_title=true&hide_border=true&show_icons=true&cache_seconds=7200 />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zggg1p&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <br>
