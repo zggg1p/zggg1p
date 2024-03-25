@@ -1,14 +1,25 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);Yuan同学祝您今日愉快!&center=true&size=27">
-</h1>
+<div align="center">
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>  
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);Yuan同学祝您今日愉快!&center=true&size=27" />
+    </a>
+  </div>
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-### Hi there, I'm Yuan Xh 👋 
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</div>
+
+# Hi there, I'm Yuan Xh 👋 
 
 I'm learning about programming methods, deep learning, and other related things.  
 
@@ -46,26 +57,58 @@ Feel free to reach out to me at yxh_000001@163.com
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 # 🚀 Actions
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="center">
+
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+<!-- Joke 笑话 -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+    <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+  </picture>
+</div>
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
-<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zggg1p&theme=dark&hide_border=true" />
-<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
-</div>
-</div>
-<br>
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
+<!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zggg1p&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zggg1p&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zggg1p&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+<!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?user=zggg1p&type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zggg1p&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
+
+<!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
 <!-- GitHub数据统计 -->
 <div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zggg1p&hide_title=true&hide_border=true&show_icons=true" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zggg1p&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
-<br>
+
+</div>
